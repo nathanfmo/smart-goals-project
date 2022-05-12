@@ -11,3 +11,17 @@ do
   continue="2"
   fi
 done
+
+#Specific
+read -p "What is your goal? I want to "
+echo "Now make it more specific, using numbers and specific markers. For example, instead of saying I want to be rich, say I want to have \$1,000,000. Instead of saying I want to run faster, say I want to run a mile 1 minute faster."
+read -p "With that in mind, what is your new, more specific goal? I want to " goal
+
+#Measurable
+read -p "Great! Now, what's an action you can do to accomplish this goal? I will " action
+
+#Achievable
+
+#Relevant
+
+#Time-Bound
